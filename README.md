@@ -1,7 +1,7 @@
 # Power-BI-Interview-Prep
 This repository balances theory, hands-on practice, and troubleshooting, making it ideal for interview prep or hiring assessments. Adjust difficulty based on the role (Analyst, Developer, Architect).
 
-1. Foundational Concepts
+##1. Foundational Concepts
 Basic Questions
 What is Power BI, and what are its core components (Desktop, Service, Gateway, Mobile)?
 
