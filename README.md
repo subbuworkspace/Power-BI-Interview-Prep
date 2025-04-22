@@ -23,7 +23,7 @@ Explain bidirectional cross-filtering and when it should be avoided.
 
 How do you optimize a slow-performing Power BI report?
 
-2. Technical Skills & DAX
+#2. Technical Skills & DAX
 Scenario-Based DAX Questions
 Scenario: A sales manager wants YoY growth by product category. Write the DAX formula.
 
